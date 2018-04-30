@@ -1,0 +1,11 @@
+.myBtn {
+    background-color: blue;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.myBtn:hover {background-color: rgb(28, 28, 211);}
+.myBtn:active {background-color: yellowgreen;}
